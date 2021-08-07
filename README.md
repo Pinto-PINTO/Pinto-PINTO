@@ -1,4 +1,4 @@
-![Hi, I'm Mathieu 👋 I'm a 🚀 French developer 🚀 I ❤️ Happy Hardcore ❤️](assets/github.gif)
+![Hi, I'm Mathieu 👋 I'm a 🚀 French developer 🚀 I ❤️ Happy Hardcore ❤️](assets/github2.gif)
 <!-- (https://github.com/matyo91/matyo91/raw/main/assets/github.gif) -->
 
 <!--
