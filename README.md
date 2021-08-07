@@ -16,6 +16,9 @@
 [<img align="left" alt="Instagram" width="40px" height="40px" src="https://img.icons8.com/color/96/000000/instagram-new.png" />][instagram]
 [<img align="left" alt="Discord" width="40px" height="40px" src="https://img.icons8.com/color/96/000000/discord-logo.png" />][discord]
 
+<br />
+<br />
+
 ## Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
@@ -33,6 +36,8 @@
 [<img align="left" alt="C++" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />][c++playlist]
 [<img align="left" alt="Git" width="40px" height="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />][gitplaylist]
 
+<br />
+<br />
 
 
 
@@ -47,3 +52,10 @@
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[mongoplaylist]: https://www.youtube.com/watch?v=9OPP_1eAENg&list=PL4cUxeGkcC9jpvoYriLI0bY8DOgWZfi6u
+[sqlplaylist]: https://www.youtube.com/watch?v=7S_tz1z_5bA
+[phpplaylist]: https://www.youtube.com/watch?v=qVU3V0A05k8&list=PL0eyrZgxdwhwBToawjm9faF1ixePexft-
+[androidplaylist]: https://www.youtube.com/watch?v=roDz8mMvbIg&list=PLknSwrodgQ72X4sKpzf5vT8kY80HKcUSe 
+[cplaylist]: https://www.youtube.com/watch?v=rLf3jnHxSmU&list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR
+[c++playlist]: https://www.youtube.com/watch?v=18c3MTX0PK0&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb
+[gitplaylist]: https://www.youtube.com/watch?v=8JJ101D3knE
