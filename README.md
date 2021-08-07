@@ -1,5 +1,6 @@
-![Hi, I'm Mathieu 👋 I'm a 🚀 French developer 🚀 I ❤️ Happy Hardcore ❤️](assets/github3.gif)
-<!-- (https://github.com/matyo91/matyo91/raw/main/assets/github.gif) -->
+<h1 align="center">print("Menuka Pinto, a passionate Full Stack Developer from Sri Lanka ❤️")</h1>
+
+![Menuka Pinto Svg](assets/github3.gif)
 
 ## I'm a University Student, Developer and Baller!!
 
@@ -39,7 +40,6 @@
 <br />
 <br />
 <hr />
-<br />
 
 [![Menuka's github activity graph](https://activity-graph.herokuapp.com/graph?username=Pinto-PINTO&theme=xcode)](https://git.io/Pinto-PINTO)
 
@@ -50,7 +50,7 @@
 [instagram]: https://www.instagram.com/menuka_shevon/
 [discord]: https://discordapp.com/users/690879785131311145/
 
-[website]: https://codeSTACKr.com
+[website]: https://google.com
 
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
