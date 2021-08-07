@@ -3,7 +3,7 @@
 
 ## I'm a University Student, Developer and Baller!!
 
-- 🔭 I just launched my porfolio: [Menuka Pinto][course]!
+- 🔭 I just launched my porfolio: [Menuka Pinto][website]
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other enthusiastic developers
 - 🥅 2021 Goals: Contribute more to real world projects
@@ -38,6 +38,10 @@
 
 <br />
 <br />
+<hr />
+<br />
+
+[![Menuka's github activity graph](https://activity-graph.herokuapp.com/graph?username=Pinto-PINTO&theme=xcode)](https://git.io/Pinto-PINTO)
 
 
 
