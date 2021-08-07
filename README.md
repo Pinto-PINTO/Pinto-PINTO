@@ -51,7 +51,10 @@ Then i recorded my screen to gif on Mac with Quicktime and https://gist.github.c
   <img src="https://visitor-badge.glitch.me/badge?page_id=matyo91.matyo91" alt="visitor badge"/>
 </p>
 
-<h3 align="left">Connect with me:</h3>
+
+
+## Contact
+
 <p align="left">
     <a href="https://www.linkedin.com/in/menuka-pinto-11a0aa1bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chamudirw" height="30" width="40" /></a>
     <a href="https://www.instagram.com/menuka_shevon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_cha.mu_di_" height="30" width="40" /></a>
