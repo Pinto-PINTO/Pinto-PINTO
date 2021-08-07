@@ -1,4 +1,4 @@
-<h1 align="center">print("Menuka Pinto, a passionate Full Stack Developer from Sri Lanka ❤️")</h1>
+<h1 align="center">print("Menuka Pinto, Sri Lanka ❤️")</h1>
 
 ![Menuka Pinto Svg](assets/github3.gif)
 
