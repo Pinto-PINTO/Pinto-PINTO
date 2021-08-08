@@ -2,7 +2,7 @@
 
 ![Menuka Pinto Svg](assets/github3.gif)
 
-## I'm a University Student, Developer and Baller!!
+## I'm a Sophomore, Developer and Baller!!
 
 - 🔭 I just launched my porfolio: [Menuka Pinto][website]
 - 🌱 I’m currently learning everything 🤣
