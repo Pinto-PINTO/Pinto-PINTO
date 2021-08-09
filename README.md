@@ -41,7 +41,7 @@
 <br />
 <hr />
 
-[![Menuka's github activity graph](https://activity-graph.herokuapp.com/graph?username=Pinto-PINTO&theme=xcode)](https://git.io/Pinto-PINTO)
+[![Menuka's github activity graph](https://activity-graph.herokuapp.com/graph?username=Pinto-PINTO&theme=rogue)](https://git.io/Pinto-PINTO)
 
 
 
