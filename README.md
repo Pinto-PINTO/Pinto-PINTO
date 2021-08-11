@@ -50,7 +50,7 @@
 [instagram]: https://www.instagram.com/menuka_shevon/
 [discord]: https://discordapp.com/users/690879785131311145/
 
-[website]: https://google.com
+[website]: https://pinto-pinto.github.io/
 
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
