@@ -5,7 +5,7 @@
 ## I'm a Sophomore, Developer and Baller!!
 
 - 🔭 I just launched my porfolio: [Menuka Pinto][website]
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning three.js 🤣
 - 👯 I’m looking to collaborate with other enthusiastic developers
 - 🥅 2021 Goals: Contribute more to real world projects
 - ⚡ Fun fact: My nickname and last name are both the same 😂
