@@ -5,7 +5,7 @@
 ## I'm a Sophomore, Developer and Baller!!
 
 - 🔭 I just launched my porfolio: [Menuka Pinto][website]
-- 🌱 I’m currently learning three.js 🤣
+- 🌱 I’m currently learning [Three.js][threejs] 🤣
 - 👯 I’m looking to collaborate with other enthusiastic developers
 - 🥅 2021 Goals: Contribute more to real world projects
 - ⚡ Fun fact: My nickname and last name are both the same 😂
@@ -51,6 +51,7 @@
 [discord]: https://discordapp.com/users/690879785131311145/
 
 [website]: https://pinto-pinto.github.io/
+[threejs]: https://threejs.org/
 
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
