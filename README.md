@@ -42,7 +42,7 @@
 <hr />
 
 [![Menuka's github activity graph](https://activity-graph.herokuapp.com/graph?username=Pinto-PINTO&theme=rogue)](https://git.io/Pinto-PINTO)
-/*Changed the default theme in the github activity graph*/
+<!-- Changed the default theme in the github activity graph -->
 
 [gmail]: mailto:menukapinto5555@gmail.com
 [linkedin]: https://www.linkedin.com/in/menuka-pinto-11a0aa1bb/
