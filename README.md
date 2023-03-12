@@ -1,5 +1,7 @@
 
-![Menuka Pinto Svg](assets/github3.gif)
+<!--![Menuka Pinto Svg](assets/github3.gif) -->
+![Menuka Pinto Svg](assets/menuka-pinto-gif.gif)
+
 
 ## I'm a Fresher!!
 
