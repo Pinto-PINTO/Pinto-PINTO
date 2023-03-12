@@ -3,13 +3,12 @@
 ![Menuka Pinto Svg](assets/black-white-logo.gif)
 
 
-I'm Menuka and I'm a full stack web / app developer with 3 years of experience.
-I have been working in various fields, starting from crypto currency, finances and ending with human resources.
+I'm Menuka and I'm a full stack web / app developer with 2 years of experience.
 I have always been hard working and goal's focused with proven results.
 
 #### TECH STACK
 
-PHP / MYSQL / ASP .NET CORE  / JS / NODE JS / REACT JS / HTML / CSS / SCSS / BOOSTRAP / GITHUB / ARDUINO IDE / PYTHON / SELENIUM / FIGMA
+PHP / MYSQL / ASP .NET CORE  / JS / TYPESCRIPT / NODE JS / REACT JS / HTML / CSS / SCSS / BOOSTRAP / GITHUB / ARDUINO IDE / PYTHON / SELENIUM / FIGMA
 
 ##### MOTTO
 
