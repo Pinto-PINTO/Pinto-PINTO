@@ -1,7 +1,7 @@
 
 ![Menuka Pinto Svg](assets/github3.gif)
 
-## I'm a Sophomore, Developer and Baller!!
+## I'm a Fresher!!
 
 - 🔭 I just launched my porfolio: [Menuka Pinto][website]
 - 🌱 I’m currently learning [Three.js][threejs] 🤣
