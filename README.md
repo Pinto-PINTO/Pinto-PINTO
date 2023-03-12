@@ -40,6 +40,10 @@
 <br />
 <hr />
 
+<p align="center">
+    <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
+
 <!-- [![Menuka's github activity graph](https://activity-graph.herokuapp.com/graph?username=Pinto-PINTO&theme=rogue)](https://git.io/Pinto-PINTO) -->
 <!-- Changed the default theme in the github activity graph -->
 
